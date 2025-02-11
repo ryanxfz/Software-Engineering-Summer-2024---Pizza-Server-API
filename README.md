@@ -1,5 +1,6 @@
-**Introduction**
-This project was developed as a part of a university assignment in the module "Software Engineering" during the summer Semester of 2024. It is a collaborative effort by Patrick Chiu, Bryan A. Suharta, Thierry J.J. Ong, and Ryan X.F. Zebua (me). Some of the code frameworks were given to us by the professors, and we only take credit for all the parts that **we** have added, modified, and fixed.
+# **Preface**
+
+This project was developed as a part of a university assignment in the module **"Software Engineering"** during the summer Semester of 2024 at *Hochschule Darmstadt*. It is a collaborative effort by Patrick Chiu, Bryan A. Suharta, Thierry J.J. Ong, and Ryan X.F. Zebua (me). Some of the code frameworks were given to us by the professors, and we only take credit for the parts that **we** have worked on.
 
 # **1337 Pizza** - Pizza Delivery for Your *Nerdy* Needs
 
